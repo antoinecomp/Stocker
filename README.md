@@ -10,6 +10,9 @@ This project use Will Koershen's [Stocker](https://github.com/WillKoehrsen/Data-
 
 For instance :
 
+![stock prediction photo is comming back soon!](https://cdn.pbrd.co/images/I0duLoT.png)
+
+
 # Requirements :
 
 Jupyter notebook.
