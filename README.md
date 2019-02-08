@@ -18,8 +18,8 @@ For instance :
 
 # Requirements :
 
-Jupyter notebook.
+Jupyter notebook and some libraries you can saw in the import of `Stocker.py` and `finance.ipynb`
 
 # To run the file :
 
-Launch jupyter notebook and select `finance.ipynb`.
+Clone this repository, install the libraries that may be missing and select `finance.ipynb`.
