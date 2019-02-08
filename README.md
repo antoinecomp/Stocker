@@ -11,7 +11,6 @@ This project use Will Koershen's [Stocker](https://github.com/WillKoehrsen/Data-
 For instance :
 
 <div align="center">
-![stock prediction photo is comming back soon!](https://cdn.pbrd.co/images/I0duLoT.png)
 <img src=https://cdn.pbrd.co/images/I0duLoT.png alt="Paris" class="center">
 </div>
 
