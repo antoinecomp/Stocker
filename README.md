@@ -47,3 +47,7 @@ any other errors installing packages, check out [Stack Overflow](https://stackov
 # To run the file :
 
 Clone this repository, install the libraries that may be missing and select `finance.ipynb`.
+
+# A problem ?
+
+Feel free to [raise an issue](https://github.com/antoinecomp/Stocker/issues)!
